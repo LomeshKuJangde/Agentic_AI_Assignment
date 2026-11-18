@@ -1,8 +1,8 @@
 # Agentic AI Systems — Lab Assignments & Course Project Repository
 
-**Student Name:** Satyam Savarna  
-**GitHub Profile:** [Sotus12](https://github.com/Sotus12)  
-**Repository:** [https://github.com/Sotus12/Agentic-AI-Lab-Assignments](https://github.com/Sotus12/Agentic-AI-Lab-Assignments)  
+**Student Name:** Lomesh Kumar Jangde
+**GitHub Profile:** [LomeshKulangde](https://github.com/LomeshKulangde)  
+**Repository:** [https://github.com/Sotus12/Agentic-AI-Lab-Assignments](https://github.com/LomeshKulangde/Agentic-AI-Lab-Assignments)  
 **Course:** Agentic AI Systems (School of Computer Science & Engineering, KLE Technological University)  
 
 ---
