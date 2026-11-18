@@ -2,7 +2,7 @@
 
 **Student Name:** Lomesh Kumar Jangde
 **GitHub Profile:** [LomeshKulangde](https://github.com/LomeshKulangde)  
-**Repository:** [https://github.com/Sotus12/Agentic-AI-Lab-Assignments](https://github.com/LomeshKulangde/Agentic-AI-Lab-Assignments)  
+**Repository:** [https://github.com/LomeshKuJangde/Agentic-AI-Lab-Assignments](https://github.com/LomeshKulangde/Agentic-AI-Lab-Assignments)  
 **Course:** Agentic AI Systems (School of Computer Science & Engineering, KLE Technological University)  
 
 ---
